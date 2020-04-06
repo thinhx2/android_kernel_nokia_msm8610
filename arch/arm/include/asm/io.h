@@ -27,7 +27,7 @@
 #include <asm/byteorder.h>
 #include <asm/memory.h>
 #include <asm-generic/pci_iomap.h>
-#include "../../android_kernel_nokia_msm8610-cm-11.0-wip-bisect-plus-upstream/arch/arm/mach-msm/include/mach/msm_rtb.h"
+#include "/home/thinhx2/android_kernel_nokia_msm8610-cm-11.0-wip-bisect-plus-upstream/arch/arm/mach-msm/include/mach/msm_rtb.h"
 
 /*
  * ISA I/O bus memory addresses are 1:1 with the physical address.
